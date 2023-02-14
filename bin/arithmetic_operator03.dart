@@ -8,4 +8,9 @@ find the difference of a and b then assign to "answer"
 */
 void main() {
   //write your code here
+   int a, b, javob;
+  a = 3;
+  b = 4;
+  javob = a - b;
+  print(javob);
 }
