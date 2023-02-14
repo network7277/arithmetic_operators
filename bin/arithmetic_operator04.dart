@@ -8,4 +8,9 @@ Find the multiplication of a and b then assign to 'answer'
 */
 void main() {
   //write your code here
+  int a, b, answer;
+  a = 5;
+  b = 4;
+  answer = a * b;
+  print(answer);
 }
